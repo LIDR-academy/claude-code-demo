@@ -1,3 +1,9 @@
+Este es el repositorio usado en el workshop "Agentes IA en Claude Code 2.0". 
+
+Si quieres aprender a usar todos los poderes de Claude Code incluidos en este repositorio, y todo lo que podrías hacer como AI Engineer, tienes la grabación del workshop y la información de nuestro master AI4Devs en [lidr.co/workshop-agentes-ia-gracias](lidr.co/workshop-agentes-ia-gracias)
+
+---
+
 # Next.js AI Chat with Streaming
 
 This is a Next.js application that demonstrates AI chat functionality with streaming responses using OpenAI's GPT-4o model and the Vercel AI SDK.
